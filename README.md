@@ -27,9 +27,9 @@ No scikit-learn is used. All models are written using only Numpy:
 3. KNN: finds the closest matching names in the training data.
 
 ## Results (accuracy):
-1.Naive Bayes: 82.28%
-2.Logistic Regression: 81.29%
-3.KNN: 80.47%
+1. Naive Bayes: 82.28%
+2. Logistic Regression: 81.29%
+3. KNN: 80.47%
 
 ## Train-test split (80%-20%):
 - Training data: 78592
